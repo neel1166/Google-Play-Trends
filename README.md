@@ -1,10 +1,8 @@
 # Google-Play-Trends
-Centered Analysis around Genres
-Genre mapped against Installed
-Better determine what attracts users for an initial installs
-Genre mapped against Ratings
+Centered Analysis around Genres,Genre mapped against Installed, Better determine what attracts users for an initial installs, Genre mapped against Ratings, Genre mapped against Free/Paid
+
 Once installed, which apps perform the best
-Genre mapped against Free/Paid
+
 Which apps are the most successful in generating revenue other than in-app advertisement.
 
 1. Decompress the RAR file.
